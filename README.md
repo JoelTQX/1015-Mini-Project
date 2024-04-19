@@ -1,8 +1,6 @@
-# 1015-Mini-Project
-
 # Autistic Patients Classification using Artificial Neural Networks (ANN)
 
-This repository contains code for a Kaggle notebook that demonstrates the classification of autistic patients using Artificial Neural Networks (ANN).
+This repository contains code for SC1015 Mini Project that demonstrates the classification of autistic patients using Artificial Neural Networks (ANN).
 
 ## Overview
 
@@ -11,6 +9,9 @@ This notebook explores the classification of individuals as autistic or non-auti
 ## Dataset
 
 The dataset used in this notebook is sourced from [INSERT DATASET SOURCE] and contains [INSERT NUMBER OF SAMPLES] samples with [INSERT NUMBER OF FEATURES] features. The features include demographic information, such as age and gender, as well as behavioral features related to autism spectrum disorder.
+
+## Problem Definition
+How are other factors aside from ASD detection tests relevant in predicting autism?
 
 ## Methodology
 
@@ -42,14 +43,20 @@ The following libraries are required to run the notebook:
 - Seaborn
 - Scikit-learn
 
-## License
 
-This project is licensed under the [LICENSE NAME] License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-- Special thanks to [INSERT CONTRIBUTORS] for their contributions to this project.
-- The dataset used in this analysis is sourced from [INSERT DATASET SOURCE].
+- Special thanks to [@JoelTQX, @Dank2062] for their contributions to this project.
+- The dataset used in this analysis is sourced from [https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data?select=autism_screening.csv].
+
+## References
+https://www.kaggle.com/code/ranasabrii/autistic-patients-classification-using-ann
+https://www.geeksforgeeks.org/autism-prediction-using-machine-learning/?ref=lbp
+https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd
+https://www.verywellhealth.com/what-are-the-three-levels-of-autism-260233
+https://mybrighttherapy.com/2023/08/17/why-do-we-use-the-term-autism-spectrum/
+https://www.healthline.com/health/autism/autism-misdiagnosis
 
 ---
 
