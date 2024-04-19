@@ -1,4 +1,4 @@
-# Autistic Patients Classification using Artificial Neural Networks (ANN)
+# Predicting Autism Using Artificial Neural Networks (ANN)
 
 This repository contains code for SC1015 Mini Project that demonstrates the classification of autistic patients using Artificial Neural Networks (ANN).
 
@@ -40,7 +40,16 @@ The following libraries are required to run the notebook:
 - Seaborn
 - Scikit-learn
 
+## Outcome & Insights
 
+- Analyze feature predictive power
+- Provide insights beyond traditional ASD tests
+- Emphasize the importance of additional factors
+
+## Conclusion
+
+ASD testing alone may not accurately predict autism, necessitating advanced machine learning and interdisciplinary approaches. Recommendations include collaboration, diverse datasets integration, model refinement, and personalized approaches.
+In conclusion, this project offers valuable insights and recommendations for further exploration and interdisciplinary collaboration in understanding and predicting autism spectrum disorder.
 
 ## Acknowledgments
 
