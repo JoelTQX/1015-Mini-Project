@@ -64,5 +64,3 @@ https://mybrighttherapy.com/2023/08/17/why-do-we-use-the-term-autism-spectrum/
 https://www.healthline.com/health/autism/autism-misdiagnosis
 
 ---
-
-Feel free to fill in the placeholders with specific details about the dataset, methodology, and usage instructions. Additionally, make sure to include proper references and licenses as applicable.
