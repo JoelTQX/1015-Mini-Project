@@ -53,7 +53,7 @@ In conclusion, this project offers valuable insights and recommendations for fur
 
 ## Acknowledgments
 
-- Special thanks to [@JoelTQX, @Dank2062] for their contributions to this project.
+- Special thanks to [@JoelTQX (Code, Research, Slides), @Dank2062 (Research, Slides)] for their contributions to this project.
 - The dataset used in this analysis is sourced from [https://www.kaggle.com/datasets/andrewmvd/autism-screening-on-adults/data?select=autism_screening.csv].
 
 ## References
